@@ -4,9 +4,8 @@ import java.util.Iterator;
 
 public class Main {
     public static void main(String[] args) {
-        numbersExample();
-        System.out.println("\n\n\n\n\n");
-        stringsExample();
+//        numbersExample();
+//        stringsExample();
     }
 
     public static void numbersExample() {
