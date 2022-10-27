@@ -1,0 +1,13 @@
+.project
+.classpath
+.settings
+.idea/
+.springBeans
+*.iml
+target/
+bin/
+.factorypath
+/portfolio-service.iml
+portfolio-service-api/src/main/resources/swagger/swagger-portfolio-processed.yaml
+portfolio-service-server/src/main/resources/db/migration/procedures/beforeMigrate.sql
+logs
